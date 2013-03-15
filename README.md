@@ -14,3 +14,7 @@ Color schemes are based on Android Color Swatches. Color contrast ratio is teste
 3. Coding Standards
 -------------------
 Coding standards are based on NA Isobar Coding Standards.
+
+4. Images
+---------
+Images are smushed using Smush.it and sprited using SpritePad.
