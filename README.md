@@ -22,3 +22,7 @@ Images are smushed using Smush.it and sprited using SpritePad.
 5. Icons & Branding
 -------------------
 SVG Icons are brought to you by The Noun Project and personal branding is done by Abhjijeet Wankehede.
+
+6. Plugins
+----------
+jQuery plugins from UnHeap and JavaScript libraries from JSDB.io.
