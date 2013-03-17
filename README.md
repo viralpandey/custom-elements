@@ -25,8 +25,8 @@ SVG Icons are brought to you by The Noun Project and personal branding is done b
 
 6. Plugins
 ----------
-jQuery plugins from UnHeap and JavaScript libraries from JSDB.io.
+jQuery plugins are brought to you by UnHeap and JavaScript libraries from JSDB.io.
 
 7. Stylesheet
 -------------
-CSS code is formatted is using ProCSSor(http://procssor.com/) and compressed using Online YUI Compressor.
+CSS code is formatted is using ProCSSor(http://procssor.com/) and compressed using Online YUI Compressor. CSS reset is based on reset.css of Eric Meyer for old and legacy browsers, while modern browsers rely on normalise.css by Nicolas Gallagher.
