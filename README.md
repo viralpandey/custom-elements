@@ -30,3 +30,9 @@ jQuery plugins are brought to you by UnHeap and JavaScript libraries from JSDB.i
 7. Stylesheet
 -------------
 CSS code is formatted is using ProCSSor(http://procssor.com/) and compressed using Online YUI Compressor. CSS reset is based on reset.css of Eric Meyer for old and legacy browsers, while modern browsers rely on normalise.css by Nicolas Gallagher.
+
+8. Applications
+---------------
+Google Chrome
+Skype
+7-Zip
