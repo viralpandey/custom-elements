@@ -33,6 +33,8 @@ CSS code is formatted is using ProCSSor(http://procssor.com/) and compressed usi
 
 8. Applications
 ---------------
-Google Chrome
-Skype
-7-Zip
+Google Chrome, Skype, 7-Zip
+
+9. Charts
+---------
+Charts and Infographics are brought to you by xCharts and Chart.js
