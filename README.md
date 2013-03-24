@@ -38,3 +38,7 @@ Google Chrome, Skype, 7-Zip, VLC Media Player.
 9. Charts
 ---------
 Charts and Infographics are brought to you by xCharts and Chart.js
+
+10. Browser
+-----------
+Compatible with all modern browsers and tested with BrowserStack for both desktop and mobile.
