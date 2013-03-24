@@ -33,7 +33,7 @@ CSS code is formatted is using ProCSSor(http://procssor.com/) and compressed usi
 
 8. Applications
 ---------------
-Google Chrome, Skype, 7-Zip, VLC Media Player.
+Windows - Google Chrome, Skype, 7-Zip, VLC Media Player, Sublime Text 3 (Phoenix Theme).
 
 9. Charts
 ---------
