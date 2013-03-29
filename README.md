@@ -13,7 +13,7 @@ Color schemes are based on Android Color Swatches. Color contrast ratio is teste
 
 3. Coding Standards
 -------------------
-Coding standards are based on NA Isobar Coding Standards.
+Coding standards are based on NA Isobar Coding Standards and extensive help from Dive Into HTML5. Also maintaining personal pet project, Nerdy-CSS, Nerdy-HTML, Nerdy-JS were the source of inspiration.
 
 4. Images
 ---------
@@ -41,4 +41,4 @@ Charts and Infographics are brought to you by xCharts and Chart.js
 
 10. Browser
 -----------
-Compatible with all modern browsers and tested with BrowserStack for both desktop and mobile.
+Compatible with all modern browsers and tested with BrowserStack for both desktop and mobile. A/B Testing done with optimizely. Screenshots are generated with PlaceIt by Breezi.
