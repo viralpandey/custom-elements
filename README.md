@@ -9,7 +9,12 @@ Fonts used extensively on the website are Chaparral Pro and Skolar Web. Thanks t
 
 2. Colors
 ---------
-Color schemes are based on Android Color Swatches. Color contrast ratio is tested by neat little tool (http://leaverou.github.com/contrast-ratio/) made by Lea Varou. Colors embedded in stylesheet are embedded in hsla() format. ColorHexa was used to find out the web safe colors.
+Color schemes are based on Android Color Swatches. Color contrast ratio is tested by neat little tool (http://leaverou.github.com/contrast-ratio/) made by Lea Varou. Colors embedded in stylesheet are embedded in hsla() format. ColorHexa was used to find out the web safe colors.  
+-> Android Color Swatches.
+-> Joshua Hibbert.
+-> Hub Tuts+.
+-> Charts.io.
+-> Paint drop (by Viget).
 
 3. Coding Standards
 -------------------
