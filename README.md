@@ -15,6 +15,7 @@ Color schemes are based on Android Color Swatches. Color contrast ratio is teste
 -> Hub Tuts+.
 -> Charts.io.
 -> Paint drop (by Viget).
+-> SuperHero JS.
 
 3. Coding Standards
 -------------------
