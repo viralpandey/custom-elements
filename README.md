@@ -40,7 +40,7 @@ CSS code is formatted is using ProCSSor(http://procssor.com/) and compressed usi
 8. Applications
 ---------------
 Windows - Google Chrome, Skype, 7-Zip, VLC Media Player, Sublime Text 2.  
-Mac - Google Chrome, Skype, GitHub.
+Mac - Google Chrome, Skype, GitHub, VLC Media Player.
 
 9. Charts
 ---------
