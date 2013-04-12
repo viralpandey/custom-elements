@@ -41,7 +41,7 @@ CSS code is formatted is using ProCSSor(http://procssor.com/) and compressed usi
 8. Applications
 ---------------
 Windows - Google Chrome, Skype, 7-Zip, VLC Media Player, Sublime Text 2.  
-Mac - Google Chrome, Skype, GitHub, VLC Media Player.
+Mac OS X - BitTorrent, GitHub, Keka, Skype, Sublime Text 2, VLC Media Player.
 
 9. Charts
 ---------
