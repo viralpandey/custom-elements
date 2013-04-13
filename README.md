@@ -1,8 +1,8 @@
-> This is my attempt to thank every single individual who knowingly or unknowingly contributed to the development of this website. To checkout the colophon of this website simply <a id="toggle">toggle</a> the blanks.
+> This is my attempt to thank every single individual who knowingly or unknowingly contributed to the development of this website. To checkout the colophon of this website, simply <a id="toggle">toggle</a> the blanks.
 
 Typography
 ----------
-Fonts used extensively on the website are [Chaparral Pro and Skolar Web](#). Thanks to [Adobe](#), fonts are served via [TypeKit](#). To maintain vertical rhythm, baseline is roughly configured to [38px](#), thanks to the [Em Baseline Generator tool](#), developed by [Joshua Hibbert](#) and then verified by [basehold.it by Daniel Eden](#).
+Primary fonts used extensively across this website are [Chaparral Pro](https://typekit.com/fonts/chaparral-pro) and [Skolar Web](https://typekit.com/fonts/skolar-web) embedded by [@font-face](http://www.w3.org/TR/css3-fonts/#font-face-rule) rule and served via [Typekit](https://typekit.com/). To maintain vertical rhythm, the baseline is roughly configured to [24px](http://joshnh.com/2011/08/03/how-to-set-up-a-baseline-grid/) with the help of [Em Baseline Generator](http://joshnh.com/tools/em-baseline-generator.html) developed by [Joshua Hibbert](http://joshnh.com/) and then verified by [Basehold.it](http://basehold.it/).
 
 Colors
 ------
