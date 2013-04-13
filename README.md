@@ -2,11 +2,11 @@
 
 Typography
 ----------
-Primary fonts used extensively across this website are [Chaparral Pro](https://typekit.com/fonts/chaparral-pro) and [Skolar Web](https://typekit.com/fonts/skolar-web) embedded by [@font-face](http://www.w3.org/TR/css3-fonts/#font-face-rule) rule and served via [Typekit](https://typekit.com/). To maintain vertical rhythm, the baseline is roughly configured to [24px](http://joshnh.com/2011/08/03/how-to-set-up-a-baseline-grid/) with the help of [Em Baseline Generator](http://joshnh.com/tools/em-baseline-generator.html) developed by [Joshua Hibbert](http://joshnh.com/) and then verified by [Basehold.it](http://basehold.it/).
+Primary fonts used extensively across this website are [Chaparral Pro](https://typekit.com/fonts/chaparral-pro) and [Skolar Web](https://typekit.com/fonts/skolar-web) embedded by [@font-face](http://www.w3.org/TR/css3-fonts/#font-face-rule) rule and served via [Typekit](https://typekit.com/). Fallback for the primary fonts are (Palatino, Georgia, Times New Roman](http://en.wikipedia.org/wiki/Serif) fall under the category of [serif](http://en.wikipedia.org/wiki/Serif) fonts. To maintain vertical rhythm, the baseline is roughly configured to [24px](http://joshnh.com/2011/08/03/how-to-set-up-a-baseline-grid/) with the help of [Em Baseline Generator](http://joshnh.com/tools/em-baseline-generator.html) developed by [Joshua Hibbert](http://joshnh.com/) and then verified by [Basehold.it](http://basehold.it/).
 
 Colors
 ------
-Color schemes are based on Android Color Swatches. Color contrast ratio is tested by neat little tool (http://leaverou.github.com/contrast-ratio/) made by Lea Varou. Colors embedded in stylesheet are embedded in hsla() format. ColorHexa was used to find out the web safe colors.  
+Color schemes are heavily based on the [Android Color Swatches](http://developer.android.com/design/style/color.html). The color contrast ratio is measured with the help of a neat little [tool](http://leaverou.github.com/contrast-ratio/) made by [Lea Varou](http://lea.verou.me/). Colors in the stylesheet are embedded in the [hsla()](http://css-tricks.com/yay-for-hsla/) format. [ColorHexa](http://www.colorhexa.com/) is always my best friend to find out the closest web safe color.
 
 Coding Standards
 ----------------
