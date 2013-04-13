@@ -1,4 +1,4 @@
-> This is my attempt to thank every single individual who knowingly or unknowingly contributed to the development of this website. To checkout the colophon of this website simply [toggle]() the blanks.
+> This is my attempt to thank every single individual who knowingly or unknowingly contributed to the development of this website. To checkout the colophon of this website simply <a id="toggle">toggle</a> the blanks.
 
 Typography
 ----------
