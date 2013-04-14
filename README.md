@@ -8,30 +8,26 @@ Colors
 ------
 Color schemes are heavily based on the [Android Color Swatches](http://developer.android.com/design/style/color.html). The color contrast ratio is measured with the help of a neat little [tool](http://leaverou.github.com/contrast-ratio/) made by [Lea Varou](http://lea.verou.me/). Colors in the stylesheet are embedded in the [hsla()](http://css-tricks.com/yay-for-hsla/) format. [ColorHexa](http://www.colorhexa.com/) is always my best friend to find out the closest web safe color.
 
-Coding Standards
-----------------
-Coding standards are based on the [NA Isobar Coding Standards](http://isobar-idev.github.io/code-standards/) and the book [Dive Into HTML5](http://diveintohtml5.info/) by [Mark Pilgrim](http://en.wikipedia.org/wiki/Mark_Pilgrim_(software_developer) has always been a source of inpiration for me.
+Framework
+---------
+[HTML5 Boilerplate](http://html5boilerplate.com/) is the framework behind this website. Coding standards are based on the [NA Isobar Coding Standards](http://isobar-idev.github.io/code-standards/) and the book [Dive Into HTML5](http://diveintohtml5.info/) by [Mark Pilgrim](http://en.wikipedia.org/wiki/Mark_Pilgrim_(software_developer) has always been a source of inpiration for me.
 
 Images
 ------
-All the images are smushed using [Smush.it](http://www.smushit.com/ysmush.it/) and sprited using the [SpritePad](http://spritepad.wearekiss.com/).
-
-Icons & Branding
-----------------
-All the SVG Icons are brought to you by [The Noun Project](http://thenounproject.com/) and the logo for personal branding is done by [Abhjijeet Wankehede](http://www.sokratus.in/).
+All the images are smushed using [Smush.it](http://www.smushit.com/ysmush.it/) and sprited using the [SpritePad](http://spritepad.wearekiss.com/). The SVG Icons are brought to you by [The Noun Project](http://thenounproject.com/) and the logo for personal branding is done by [Abhjijeet Wankehede](http://www.sokratus.in/).
 
 Plugins
 -------
-jQuery plugins are brought to you by UnHeap and JavaScript libraries from JSDB.io.
+This site currently doesn't use any jQuery plugin but if you are in search for plugins, then [UnHeap ](http://www.unheap.com/) and [JSDB.io](http://www.jsdb.io/?sort=trending) are always a good place to start.
 
 Stylesheet
 ----------
-CSS code is formatted is using ProCSSor(http://procssor.com/) and compressed using Online YUI Compressor. CSS reset is based on reset.css of Eric Meyer for old and legacy browsers, while modern browsers rely on normalise.css by Nicolas Gallagher.
+CSS code is formatted is using [ProCSSor](http://procssor.com/) and compressed using the [Online YUI Compressor](http://refresh-sf.com/yui/). CSS reset is based on the [reset.css](http://meyerweb.com/eric/tools/css/reset/reset.css) of [Eric Meyer](http://meyerweb.com/) for old and legacy browsers, while modern browsers rely on [normalise.css](http://necolas.github.io/normalize.css/) by [Nicolas Gallagher](http://nicolasgallagher.com/).
 
 Charts
 ------
-Charts and Infographics are brought to you by xCharts and Chart.js
+Charts and Infographics are brought to you by [xCharts](http://tenxer.github.com/xcharts/) and [Chart.js](http://www.chartjs.org/).
 
 Browser
 -------
-Compatible with all modern browsers and tested with BrowserStack for both desktop and mobile. A/B Testing done with optimizely. Screenshots are generated with PlaceIt by Breezi.
+Compatible with the latest versions of all modern browsers and tested with [BrowserStack](http://www.browserstack.com/) for both desktop and mobile. A/B testing done with [Optimizely](https://www.optimizely.com/). Screenshots are generated with the help of [PlaceIt](http://placeit.breezi.com/) by [Breezi](http://breezi.com/).
