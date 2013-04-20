@@ -30,4 +30,4 @@ Charts and Infographics are brought to you by [xCharts](http://tenxer.github.com
 
 Browser
 -------
-Compatible with the latest versions of all modern browsers and tested with [BrowserStack](http://www.browserstack.com/) for both desktop and mobile. A/B testing done with [Optimizely](https://www.optimizely.com/). Screenshots are generated with the help of [PlaceIt](http://placeit.breezi.com/) by [Breezi](http://breezi.com/).
+Compatible with the latest versions of all modern browsers and tested with [BrowserStack](http://www.browserstack.com/) for both desktop and mobile. A/B testing done with [Optimizely](https://www.optimizely.com/). Screenshots are generated with the help of [PlaceIt](http://placeit.breezi.com/) by [Breezi](http://breezi.com/). Performance for mobile devices is measured with [Mobitest](http://mobitest.akamai.com/) and the test results are available [here](http://mobitest.akamai.com/m/results.cgi?testid=130420_FD_10).
