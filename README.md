@@ -26,12 +26,12 @@ CSS code is formatted is using [ProCSSor](http://procssor.com/) and compressed u
 
 Design
 ------
-Initial layout for the website was designed and conceived using Wireframing technique with the help of [Wireframe.cc](http://wireframe.cc/) and [Sqetch](http://sqet.ch/) by [Daniel Eden](http://daneden.me/). Charts and Infographics are brought to you by [xCharts](http://tenxer.github.com/xcharts/) and [Chart.js](http://www.chartjs.org/).
+Initial layout for the website was designed and conceived using wireframing technique with the help of a neat little free app - [Wireframe.cc](http://wireframe.cc/). Charts and Infographics are brought to you by [xCharts](http://tenxer.github.com/xcharts/) and [Chart.js](http://www.chartjs.org/).
 
 Browser
 -------
 Compatible with the latest versions of all modern browsers and tested with [BrowserStack](http://www.browserstack.com/) for both desktop and mobile. A/B testing done with [Optimizely](https://www.optimizely.com/). Screenshots are generated with the help of [PlaceIt](http://placeit.breezi.com/) by [Breezi](http://breezi.com/). Performance for mobile devices is measured with [Mobitest](http://mobitest.akamai.com/) and the test results are available [here](http://mobitest.akamai.com/m/results.cgi?testid=130420_FD_10).
 
-Hositng
+Hosting
 -------
-The site is hosted on [GitHub](https://github.com/) and the domain is brought you by [BigRock](http://bigrock.com/). Email with personal domain was made possible by [Google Apps](http://www.google.com/intl/en/enterprise/apps/business/).
+This website is hosted on [GitHub](https://github.com/) and the domain is brought to you by [BigRock](http://bigrock.com/). Email with personal domain was made possible by [Google Apps](http://www.google.com/intl/en/enterprise/apps/business/).
