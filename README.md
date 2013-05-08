@@ -34,4 +34,8 @@ Compatible with the latest versions of all modern browsers and tested with [Brow
 
 Hosting
 -------
-This website is hosted on [GitHub](https://github.com/) and the domain is brought to you by [BigRock](http://bigrock.com/). Email with personal domain was made possible by [Google Apps](http://www.google.com/intl/en/enterprise/apps/business/).
+This website is hosted on [GitHub](https://github.com/) and version controlled by Git. The domain is brought to you by [BigRock](http://bigrock.com/) and Email with personal domain was made possible by [Google Apps](http://www.google.com/intl/en/enterprise/apps/business/).
+
+Desk
+----
+Completely handcoded in [Sublime Text 3](http://www.sublimetext.com/3) on [13-inch Retina MacBook Pro](http://www.apple.com/in/macbook-pro/specs-retina/). Early versions of this website were coded in [VIM](http://www.openvim.com/tutorial.html). [CodeKit](http://incident57.com/codekit/) is used to concatenate and minify the assests.
