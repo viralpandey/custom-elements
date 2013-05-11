@@ -24,6 +24,10 @@ Stylesheet
 ----------
 CSS code is formatted is using [ProCSSor](http://procssor.com/) and compressed using the [Online YUI Compressor](http://refresh-sf.com/yui/). CSS reset is based on the [reset.css](http://meyerweb.com/eric/tools/css/reset/reset.css) of [Eric Meyer](http://meyerweb.com/) for old and legacy browsers, while modern browsers rely on [normalise.css](http://necolas.github.io/normalize.css/) by [Nicolas Gallagher](http://nicolasgallagher.com/). [Helium-css](https://github.com/geuis/helium-css) has been extensivley used to churn out the unused css across pages. CSS code is verified for errors using [CSS Lint](http://csslint.net/) and [W3C CSS Validator](http://jigsaw.w3.org/css-validator/).
 
+Scripts
+-------
+All the JavaScript files are compressed using [Uglify.js](http://marijnhaverbeke.nl//uglifyjs) and [YUI Compressor](http://refresh-sf.com/yui/). Performance optimisation is carried out with the help of [jsPerf](http://jsperf.com/)
+
 Design
 ------
 Initial layout for the website was designed and conceived using wireframing technique with the help of a neat little free app - [Wireframe.cc](http://wireframe.cc/). Charts and Infographics are brought to you by [xCharts](http://tenxer.github.com/xcharts/) and [Chart.js](http://www.chartjs.org/).
