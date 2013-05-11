@@ -22,7 +22,7 @@ This site currently doesn't use any jQuery plugin but if you are in search for p
 
 Stylesheet
 ----------
-CSS code is formatted is using [ProCSSor](http://procssor.com/) and compressed using the [Online YUI Compressor](http://refresh-sf.com/yui/). CSS reset is based on the [reset.css](http://meyerweb.com/eric/tools/css/reset/reset.css) of [Eric Meyer](http://meyerweb.com/) for old and legacy browsers, while modern browsers rely on [normalise.css](http://necolas.github.io/normalize.css/) by [Nicolas Gallagher](http://nicolasgallagher.com/). [Helium-css](https://github.com/geuis/helium-css) has been extensivley used to churn out the unused css across pages. CSS code is verified for errors using [CSS Lint](http://csslint.net/) and [W3C CSS Validator](http://jigsaw.w3.org/css-validator/). Special unicode characters are brout to you by [Copy-Paste Character](http://copypastecharacter.com/).
+CSS code is formatted is using [ProCSSor](http://procssor.com/) and compressed using the [Online YUI Compressor](http://refresh-sf.com/yui/). CSS reset is based on the [reset.css](http://meyerweb.com/eric/tools/css/reset/reset.css) of [Eric Meyer](http://meyerweb.com/) for old and legacy browsers, while modern browsers rely on [normalise.css](http://necolas.github.io/normalize.css/) by [Nicolas Gallagher](http://nicolasgallagher.com/). [Helium-css](https://github.com/geuis/helium-css) has been extensivley used to churn out the unused css across pages. CSS code is verified for errors using [CSS Lint](http://csslint.net/) and [W3C CSS Validator](http://jigsaw.w3.org/css-validator/). Special unicode characters are brought to you by [Copy-Paste Character](http://copypastecharacter.com/).
 
 Scripts
 -------
