@@ -2,7 +2,38 @@
 
 Typography
 ----------
-Primary fonts used extensively across this website are [Chaparral Pro](https://typekit.com/fonts/chaparral-pro) and [Skolar Web](https://typekit.com/fonts/skolar-web) embedded by [@font-face](http://www.w3.org/TR/css3-fonts/#font-face-rule) rule and served via [Typekit](https://typekit.com/). Fallback for the primary fonts are [Palatino, Georgia, Times New Roman](http://en.wikipedia.org/wiki/Serif) fall under the category of [serif](http://en.wikipedia.org/wiki/Serif) fonts. To maintain vertical rhythm, the baseline is roughly configured to [24px](http://joshnh.com/2011/08/03/how-to-set-up-a-baseline-grid/) with the help of [Em Baseline Generator](http://joshnh.com/tools/em-baseline-generator.html) developed by [Joshua Hibbert](http://joshnh.com/) and then verified by [Basehold.it](http://basehold.it/) and [GridWax](http://gridwax.gs/).
+<table>
+  <tr>
+    <td>Primary Fonts</td>
+    <td>
+      1. Chaparral Pro<br>
+      <strong>Classification: </strong>Serif, <strong>Designers:</strong> Carol Twombly, <strong>Design date:</strong> 1997-2000, <strong>Publisher:</strong> Adobe<br>
+      2. FF Tisa Web Pro<br>
+      <strong>Classification: </strong>Serif, <strong>Designers:</strong> Mitja Miklavcic, <strong>Design date:</strong> 2008, <strong>Publisher:</strong> FontFont</strong><br>
+    </td>
+  </tr>
+  <tr>
+    <td>Fallback Fonts</td>
+    <td>
+      Palatino Linotype, Baskerville, Garamond, Georgia, serif<br>
+      <strong>Classification:</strong> serif, <strong>Tool:</strong> FFFFallback
+    </td>
+  </tr>
+  <tr>
+    <td>Served via</td>
+    <td>
+      TypeKit<br>
+      Fonts are embedded using the @font-face rule in CSS.
+    </td>
+  </tr>
+  <tr>
+    <td>Baseline</td>
+    <td>
+      24px<br>
+      <strong>Tool:</strong> Em Baseline Generator (by Joshua Hibbert), <strong>Measured using:</strong> GridWax (by Kevin Altman)                                      
+    </td>
+  </tr>
+</table>
 
 Colors
 ------
