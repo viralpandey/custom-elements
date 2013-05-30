@@ -4,7 +4,7 @@ Typography
 ----------
 <table>
   <tr>
-    <td>Primary Fonts</td>
+    <td>Primary fonts</td>
     <td>
       1. Chaparral Pro<br>
       <strong>Classification: </strong>Serif, <strong>Designers:</strong> Carol Twombly, <strong>Design date:</strong> 1997-2000, <strong>Publisher:</strong> Adobe<br>
@@ -13,7 +13,7 @@ Typography
     </td>
   </tr>
   <tr>
-    <td>Fallback Fonts</td>
+    <td>Fallback fonts</td>
     <td>
       Palatino Linotype, Baskerville, Garamond, Georgia, serif<br>
       <strong>Classification:</strong> serif, <strong>Tool:</strong> FFFFallback
@@ -23,7 +23,7 @@ Typography
     <td>Served via</td>
     <td>
       TypeKit<br>
-      Fonts are embedded using the @font-face rule in CSS.
+      <strong>Embedded using:</strong> @font-face rule in CSS.
     </td>
   </tr>
   <tr>
