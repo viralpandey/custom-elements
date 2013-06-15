@@ -77,4 +77,4 @@ Completely handcrafted and coded in [Sublime Text 3](http://www.sublimetext.com/
 
 Testing
 -------
-Testing for all browsers done via BrowserStack. Testing for mobile devices done using Ghostlab and Adobe Edge Inspect (formerly Adobe Shadow).
+Testing for all browsers done via BrowserStack. Testing for mobile devices done using Ghostlab and Adobe Edge Inspect (formerly Adobe Shadow). [Web Page Test](http://www.webpagetest.org/result/130615_BN_AKW/) used to test the performance and optimisation.
