@@ -41,7 +41,7 @@ Color schemes are heavily based on the [Android Color Swatches](http://developer
 
 Framework
 ---------
-[HTML5 Boilerplate](http://html5boilerplate.com/) is the framework behind this website. Coding standards are based on the [NA Isobar Coding Standards](http://isobar-idev.github.io/code-standards/) and the book [Dive Into HTML5](http://diveintohtml5.info/) by [Mark Pilgrim](http://en.wikipedia.org/wiki/Mark_Pilgrim_(software_developer) has always been a source of inpiration for me.
+[HTML5 Boilerplate](http://html5boilerplate.com/) is the framework behind this website. Coding standards are based on the [NA Isobar Coding Standards](http://isobar-idev.github.io/code-standards/) and the book [Dive Into HTML5](http://diveintohtml5.info/) by [Mark Pilgrim](http://en.wikipedia.org/wiki/Mark_Pilgrim_(software_developer) has always been a source of inpiration for me. Project documentation is done by [FlatDoc](http://ricostacruz.com/flatdoc/) and [Daux](http://daux.io/).
 
 Images
 ------
