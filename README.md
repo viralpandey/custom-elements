@@ -65,7 +65,7 @@ Initial layout for the website was designed and conceived using wireframing tech
 
 Browser
 -------
-Compatible with the latest versions of all modern browsers and tested with [BrowserStack](http://www.browserstack.com/) for both desktop and mobile. A/B testing done with [Optimizely](https://www.optimizely.com/). Screenshots are generated with the help of [PlaceIt](http://placeit.breezi.com/) by [Breezi](http://breezi.com/). Performance for mobile devices is measured with [Mobitest](http://mobitest.akamai.com/) and the test results are available [here](http://mobitest.akamai.com/m/results.cgi?testid=130420_FD_10). HTTP headers reviewed and tested by [http://hackst.com/](HackSt).
+Compatible with the latest versions of all modern browsers and tested with [BrowserStack](http://www.browserstack.com/) for both desktop and mobile. A/B testing done with [Optimizely](https://www.optimizely.com/). Screenshots are generated with the help of [PlaceIt](http://placeit.breezi.com/) by [Breezi](http://breezi.com/). Full length screenshots by http://ctrlq.org/screenshots/. Performance for mobile devices is measured with [Mobitest](http://mobitest.akamai.com/) and the test results are available [here](http://mobitest.akamai.com/m/results.cgi?testid=130420_FD_10). HTTP headers reviewed and tested by [http://hackst.com/](HackSt).
 
 Hosting
 -------
