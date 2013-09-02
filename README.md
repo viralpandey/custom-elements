@@ -73,7 +73,7 @@ This website is hosted on [GitHub](https://github.com/) and version controlled b
 
 Desk
 ----
-Completely handcrafted and coded in [Sublime Text 3](http://www.sublimetext.com/3) on [13-inch Retina MacBook Pro](http://www.apple.com/in/macbook-pro/specs-retina/). The [Editor](http://blog.alexmaccaw.com/sublime-text) uses the [Soda theme](https://github.com/buymeasoda/soda-theme/) and the dock icon is from [Elliot Jackson](http://dribbble.com/shots/872166-Sublime-Text-2-Replacement-Icon). Early versions of this website were coded in [VIM](http://www.openvim.com/tutorial.html). [H5BP Ant Build Script](https://github.com/h5bp/ant-build-script) is used to concatenate and minify the assests and make it production ready.
+Completely handcrafted and coded in [Sublime Text 3](http://www.sublimetext.com/3) on [13-inch Retina MacBook Pro](http://www.apple.com/in/macbook-pro/specs-retina/). The [Editor](http://blog.alexmaccaw.com/sublime-text) uses the [Soda theme](https://github.com/buymeasoda/soda-theme/) and the dock icon is from [Elliot Jackson](http://dribbble.com/shots/872166-Sublime-Text-2-Replacement-Icon) with custom color scheme designed in [tmTheme Editor](http://tmtheme-editor.herokuapp.com/). Early versions of this website were coded in [VIM](http://www.openvim.com/tutorial.html). [H5BP Ant Build Script](https://github.com/h5bp/ant-build-script) is used to concatenate and minify the assests and make it production ready.
 
 Testing
 -------
