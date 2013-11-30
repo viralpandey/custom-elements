@@ -69,7 +69,7 @@ Compatible with the latest versions of all modern browsers and tested with [Brow
 
 Hosting
 -------
-This website is hosted on [GitHub](https://github.com/) and version controlled by Git. The domain is brought to you by [BigRock](http://bigrock.com/) and Email with personal domain was made possible by [Google Apps](http://www.google.com/intl/en/enterprise/apps/business/).
+This website is hosted on [GitHub](https://github.com/) and version controlled by Git. The domain is brought to you by [BigRock](http://bigrock.com/) and Email with personal domain was made possible by [Google Apps](http://www.google.com/intl/en/enterprise/apps/business/). CDN by [Cloudfare](http://cloudflare.com) and Images hosted by [Cloudinary](http://cloudinary.com/).
 
 Desk
 ----
