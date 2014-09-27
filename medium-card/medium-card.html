@@ -1,0 +1,16 @@
+<link rel="import" href="http://www.polymer-project.org/components/polymer/polymer.html">
+
+<polymer-element name="medium-card" attributes="type, href, width, height">
+	<template>
+        <link rel="stylesheet" href="medium-card.css">
+        <iframe src="https://api.medium.com/embed?type={{type}}&path=/{{href}}" width="{{width}}" height="{{height}}"></iframe>
+    </template>
+    <script>
+        Polymer('medium-card', {
+          type: 'profile',
+          href: '',
+          width: 400,
+          height: 350
+        });
+    </script>
+</polymer-element>
