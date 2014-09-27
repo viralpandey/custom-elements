@@ -1,0 +1,17 @@
+:host {
+	display: inline-block;
+}
+
+:host::before,
+:host::after {
+	display: inline-block;
+	vertical-align: top;
+}
+
+:host::before {
+	content: '\201C';
+}
+
+:host::after {
+	content: '\201D';
+}
