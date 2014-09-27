@@ -1,13 +1,13 @@
 # pull-quote
 
-> Put an end to the age-old debate of `aside` vs `blockquote` for creating **Pull Quotes**. Instead use this custom element to create beautiful custom elements.
+> Put an end to the [age-old debate](www.impressivewebs.com/aside-vs-blockquote-html5/) of `aside` vs `blockquote` for creating **Pull Quotes**. Instead use this custom element to create beautiful custom elements.
 
 ## Installation
 
 Using [Bower](http://bower.io), run:
 
 ```shell
-bower install pull-quote
+$ bower install pull-quote
 ```
 
 ## Usage
