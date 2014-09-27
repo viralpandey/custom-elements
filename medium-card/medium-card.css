@@ -1,0 +1,13 @@
+iframe {
+    max-width: 100%;
+    min-width: 220px;
+    padding: 0;
+    display: inline-block;
+    position: static;
+    visibility: visible;
+    border-radius: 5px;
+    border-color: #EEE #DDD #BBB;
+    border-width: 1px;
+    border-style: solid;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 1px 3px;
+}
