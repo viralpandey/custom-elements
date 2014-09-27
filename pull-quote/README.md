@@ -1,6 +1,6 @@
 # pull-quote
 
-Web Component wrapper for creating **Pull Quotes** on your website.
+> Put an end to the age-old debate of `aside` vs `blockquote` for creating **Pull Quotes**. Instead use this custom element to create beautiful custom elements.
 
 ## Installation
 
