@@ -1,0 +1,40 @@
+<link rel="import" href="http://www.polymer-project.org/components/polymer/polymer.html">
+
+<polymer-element name="x-video" attributes="src alt poster mp4 webm ogv width height">
+  <template>
+    <link rel="stylesheet" href="x-video.css">
+    <video controls poster="http://sandbox.thewikies.com/vfe-generator/images/big-buck-bunny_poster.jpg" width="{{width}}" height="{{height}}">
+      <source src="{{mp4}}" type="video/mp4">
+      <source src="{{webm}}" type="video/webm">
+      <source src="{{ogv}}" type="video/ogg">
+      <object type="application/x-shockwave-flash" data="http://flashfox.googlecode.com/svn/trunk/flashfox.swf" width="{{width}}" height="{{height}}">
+        <param name="movie" value="http://flashfox.googlecode.com/svn/trunk/flashfox.swf">
+        <param name="allowFullScreen" value="true">
+        <param name="wmode" value="transparent">
+        <param name="flashVars" value="controls=true&amp;poster={{poster}}&amp;src={{src}}">
+        <img alt="{{alt}}" src="{{poster}}" width="{{width}}" height="{{height}}" title="No video playback capabilities, please download the video below">
+      </object>
+    </video>
+    <p>
+      <strong>Download video:</strong> <a href="{{mp4}}">MP4 format</a> | <a href="{{webm}}">WebM format</a> | <a href="{{ogv}}">Ogg format</a>
+    </p>
+  </template>
+  <script>
+    Polymer({
+      src: "",
+      alt: "",
+      poster: "",
+      mp4: "",
+      webm: "",
+      ogv: "",
+      
+      ready: function(){
+        url = this.src.substr(0, this.src.lastIndexOf('.')) || this.src;
+        
+        this.mp4 = url + '.mp4';
+        this.webm = url + '.webm';
+        this.ogv = url + '.ogv';
+      }
+    });
+  </script>
+</polymer-element>
